@@ -1,9 +1,8 @@
-require 'pry'
 class JobForYou
 
   def tweet
-    puts new_job
-    # client.update(new_job)
+    # puts new_job
+    client.update(new_job)
   end
 
   def new_job
