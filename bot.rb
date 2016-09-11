@@ -1,3 +1,4 @@
+require 'twitter'
 class JobForYou
 
   def tweet
