@@ -9,3 +9,5 @@ Graphics
 Lead
 Assistant
 Associate
+In-House
+Remote
