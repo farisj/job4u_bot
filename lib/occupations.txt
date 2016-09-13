@@ -1,4 +1,11 @@
 Intern
+Social-Media Intern
+Content Intern
+Assistant Intern
+Associate Intern
+Unpaid Intern
+Low-paid Intern
+Sub-Intern
 Manager
 Supervisor
 Editor
@@ -16,7 +23,6 @@ Vlogger
 Videographer
 Technician
 Designer
-Graphic Designer
 Touch-typist
 Content Supervisor
 Social-Media Manager
@@ -32,7 +38,11 @@ Producer
 Content Producer
 Content Editor
 Content Writer
-Branded Content Genius
+Content Aggregator
+Content Creator
+Content Inventor
+Content Repackager
+Branded Content Guru
 Social Maven
 Video Editor
 Slush Pile Editor
@@ -62,9 +72,9 @@ Googler
 Fact-Checker
 Digital Editor
 Digital Director
-Deputy Editor
-Deputy Content Supervisor
+Content Supervisor
 Chief Strategist
+Co-Chief Strategist
 Editor-in-Chief
 Seat-Filler
 Receptionist
@@ -81,3 +91,10 @@ Administrative Coordinator
 Community Moderator
 Community Manager
 Filing Cabinet Manager
+Developer
+Office Manager
+Desk Organizer
+News Curator
+Aggregator
+Font Finder
+Gofer
