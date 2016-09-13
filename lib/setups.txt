@@ -9,23 +9,16 @@ coven
 apiary
 wind farm
 café
-internet café
-artisanal cheese purveyor
-juice press
 printing press
 blog
-gluten-free bakery
-shopping center
 co-living space
 friend zone
 hipster factory
-crafting club
 farmer's market
 cat café
 dog park management company
 office building
 office tower
-Sbarro
 web channel
 content stream
 app developer
@@ -39,9 +32,35 @@ zine
 blog collective
 web vertical
 online vertical
-standing desk manufacturer
 fitness magazine
 fitness blog
+fitness startup
 women's lifestyle blog-to-book project
+book-to-blog project
 programming hive
+programming startup
 co-living space
+co-living startup
+cult
+cult startup
+agency
+website
+online publisher
+content-creation hub
+Twitter bot
+vlog
+content aggregator
+clickfarm
+internet K-hole
+print-on-demand publisher
+social media platform
+social media startup
+networking platform
+dating site
+dating app
+job-search app
+men's lifestyle blog
+community messageboard
+platform
+publisher
+e-bookstore
