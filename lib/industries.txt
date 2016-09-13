@@ -4,3 +4,7 @@ new-media
 urban
 underground
 professional
+editorial
+tech-editorial
+b2b
+e-commerce
